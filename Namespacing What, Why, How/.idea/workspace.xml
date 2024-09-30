@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="093ffca9-d57e-4daf-b792-9d2e70c06cf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/.idea/Handle Multiple Request.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/Core/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/Core/Response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/Core/Validator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/Core/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/Core/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/controllers/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/controllers/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/controllers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/controllers/notes/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/controllers/notes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/controllers/notes/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/403.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/about.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/contact.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/index.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/notes/create.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/notes/index.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/notes/show.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/partials/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/partials/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handle Multiple Request/views/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/28.Namespacing What, Why, How.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/.idea/create-login-page.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/Functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/Response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/Routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/Validator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/403.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/Login.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/about.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/contact.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/index.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/notes/create.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/notes/index.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create-login-page/views/notes/show.view.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mcDAoya6qxTn9vytk3P8BfBJF4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/learn-php/Namespacing What, Why, How",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093ffca9-d57e-4daf-b792-9d2e70c06cf5" name="Changes" comment="" />
+      <created>1727366830099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727366830099</updated>
+      <workItem from="1727366831094" duration="1174000" />
+      <workItem from="1727693162011" duration="855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+</project>
