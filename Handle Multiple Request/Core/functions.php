@@ -30,5 +30,11 @@ function view($path, $attributes = [])
 {
     extract($attributes);
 
-    require base_path('views/' . $path);
+    $fullPath = base_path('views/' . $path);
+
+    if (!file_exists($fullPath)) {
+        throw new Exception("View file not found: {$fullPath}");
+    }
+
+    require $fullPath;
 }
